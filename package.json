@@ -1,12 +1,12 @@
 {
   "name": "usb-barcode-scanner-brainos",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A typed library for using USB barcode scanners in Node.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": "https://github.com/fchienvuhoang/usb-barcode-scanner",
-  "author": "fchienvuhoang",
-  "email": "fchienvuhoang@gmail.com",
+  "author": "mikerovers",
+  "contributors": ["fchienvuhoang@gmail.com"],
   "license": "MIT",
   "homepage": "https://github.com/fchienvuhoang/usb-barcode-scanner#readme",
   "keywords": [
@@ -18,7 +18,7 @@
     "electron"
   ],
   "bugs": {
-    "url": "https://github.com/fchienvuhoang/usb-barcode-scanner/issues"
+    "url": "https://github.com/mikerovers/usb-barcode-scanner/issues"
   },
   "dependencies": {
     "lodash": "^4.17.10",
