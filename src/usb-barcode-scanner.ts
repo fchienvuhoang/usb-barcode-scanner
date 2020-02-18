@@ -57,6 +57,9 @@ export class UsbScanner extends EventEmitter implements onDataScanned {
                     }
                 }
             });
+            this.hid.on('error', error => {
+                console.log('hid on error:', error);
+            });
         }
     }
 
