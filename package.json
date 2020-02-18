@@ -13,7 +13,8 @@
     "usb",
     "barcode",
     "scanner",
-    "hid"
+    "hid",
+    "electron"
   ],
   "bugs": {
     "url": "https://github.com/mikerovers/usb-barcode-scanner/issues"
